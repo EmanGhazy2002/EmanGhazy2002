@@ -5,11 +5,11 @@
 
 - 🔭 I am a Student at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
 
-- 🌱 I’m currently **learning Computer Science ,Backend developer (php laravel).**
+- 🌱 I’m currently **learning Computer Science , Backend developer (php laravel).**
 
-- 👩‍💻I am a competitive programmer at **Codeforces,Leetcode.**
+- 👩‍💻I am a competitive programmer at **Codeforces , Leetcode.**
 
-- 🌟 Main languages: **php,c++.**
+- 🌟 Main languages: **php , cpp.**
 
 - 📫 How to reach me **ghazyeman360@gmail.com**
 
