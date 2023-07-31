@@ -9,6 +9,8 @@
 
 - 👩‍💻I am a competitive programmer at **Codeforces, Leetcode.**
 
+- 👩‍💻I am Intrested in cyber security.**
+
 - 🌟 Main languages: **php, cpp.**
 
 - 📫 How to reach me **ghazyeman360@gmail.com**
