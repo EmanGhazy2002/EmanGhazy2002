@@ -6,10 +6,10 @@
 - 🔭 I am a Student at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
 
 - 🌱 I’m currently **learning Computer Science, Backend developer (php laravel).**
-
-- 👩‍💻I am a competitive programmer at **Codeforces, Leetcode.**
-
+  
 - 👩‍💻I am Intrested in cyber security.**
+  
+- 👩‍💻I am a competitive programmer at **Codeforces, Leetcode.**
 
 - 🌟 Main languages: **php, cpp.**
 
