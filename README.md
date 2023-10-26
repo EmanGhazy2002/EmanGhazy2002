@@ -53,5 +53,5 @@
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eman1-2-3&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" alt="eman1-2-3" /></p>
+  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmanGhazy2002&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" alt="EmanGhazy2002" /></p>
   <br/>
