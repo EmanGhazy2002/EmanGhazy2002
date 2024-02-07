@@ -1,89 +1,75 @@
 <div id="header" align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
+  <img src="https://user-images.githubusercontent.com/24501320/158049904-efd9f43a-78ae-45f4-96f3-9fda67ee0392.png" height=170 />
 </div>
 <div id="badges"align="center">
-	
-[![Spotify](https://novatorem-self-one.vercel.app/api/spotify)](https://open.spotify.com/user/9m3wv5dp)
 
-![Static Badge](https://img.shields.io/badge/facebook-blue?style=for-the-badge&link=https%3A%2F%2Fwww.facebook.com%2F3BSALAM.Alien)
-![Static Badge](https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2F3bsalam.1%2F)
-![Static Badge](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&color=%230A66C2&link=https%3A%2F%2Fwww.instagram.com%2F3bsalam.1%2F)
+![Static Badge](https://img.shields.io/badge/facebook-blue?style=for-the-badge&link=https%3A%2F%2Fwww.facebook.com%2Feman.ghazy.7509)
+![Static Badge](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feman-ghazy-541067208)
 </div>
 <div id="header1" align="center">
 <!--[![committers.top badge](https://user-badge.committers.top/egypt/3bsalam-1.svg)](https://user-badge.committers.top/egypt/3bsalam-1) -->
-  <img src="https://komarev.com/ghpvc/?username=3bsalam-1&style=for-the-badge&color=grey&&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=EmanGhazy2002&style=for-the-badge&color=grey&&label=PROFILE+VIEWS"/>
 </div>
 <div id="view" align="center">
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=435&lines=Data+Scientist)](https://git.io/typing-svg)
-<h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=435&lines=Back-End+Developer)](https://git.io/typing-svg)
+<!--<h1>
   Hi.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h1>-->
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
+  <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDczMzU5ODgsIm5iZiI6MTcwNzMzNTY4OCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA3VDE5NTQ0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2M2M3NWU1YTNkODhiODliYTAzYWFlNDZlMWVhMzJiMzNhZjQyOGFlOGY1MmYzNzgzZDhkOTg3YWJjNDRjZTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iSNuRTrr7nwxFiMJPe8QpOaW43Zvsdd4TbPCae4IzLI" width="300">
 </div>
 
 ---
-
-### :man_technologist: About Me :
-
-```python
+### 👩‍💻: About Me :
+```node
 #SPDX-License-Identifier: MIT
-pragma python ^3.10.1
+pragma npm ^3.10.1
+class Profile {
+    constructor() {
+        this.name = "Eman Ghazy";
+        this.jobTitle = "Back-End Developer";
+        this.country = "Egypt";
+        this.currentlyWorking = ["Nodejs", "Mongodb", "Restful Api"];
+        this.currentlyLearning = ["Advanced Nodejs", "Mongodb with Mongoose"];
+    }
 
-Class Profile :
-    self.name = "Ahmed Mohamed"
-    self.jop_title ="Data Scientist"
-    self.country= "Egypt"
-    self.currently_working = ["Data Science","Machine Learning","Deep Learning"]
-    self.currently_learning = ["Advanced Data Science","Recommendation Systems","Reinforcement Learning"]
-    self.ask=_me_about = ["Technical support", "Operating systems", "Desktop apps", "IT", "Data Science"]
-    self.fun_fact = "I can cook"
-    self.pronouns = "He | Him"
+    getSkills() {
+        let skills = ["Nodejs","PHP","Laravel","Js","C/C++","HTML & CSS"];
+        return skills;
+    }
+}
 
-    def getSkills():
-        global skills = [
-            string("Python"),
-            "Java",
-            "C/C++",
-            "Bash",
-            "Tensorflow",
-            "HTML & CSS"]
-
-        return skills
-
+const myProfile = new Profile();
+console.log("Name:", myProfile.name);
+console.log("Job Title:", myProfile.jobTitle);
+console.log("Country:", myProfile.country);
+console.log("Currently Working:", myProfile.currentlyWorking);
+console.log("Currently Learning:", myProfile.currentlyLearning);
+console.log("Skills:", myProfile.getSkills());
 ```
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
  
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ 
+  ![Node-js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Express-js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-  ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </div>
@@ -93,9 +79,9 @@ Class Profile :
 ### :fire: My Stats :
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=3bsalam-1&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/3bsalam-1?tab=repositories)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmanGhazy2002&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/EmanGhazy2002?tab=repositories)
 
-[![Top Langs](https://github-readme-stats-two-zeta-68.vercel.app/api/top-langs/?username=3bsalam-1&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-two-zeta-68.vercel.app/api/top-langs/?username=EmanGhazy2002&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -133,11 +119,11 @@ Class Profile :
 
 ---
 
- [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=3bsalam-1&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=EmanGhazy2002&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
 
-### :writing_hand: Blog  : [3bsalam-1](https://3bsalam-1.github.io/Blog/)
+### :writing_hand: Blog  : [EmanGhazy2002](https://EmanGhazy2002.github.io/Blog/)
 
-![snake gif](https://github.com/3bsalam-1/3bsalam-1/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/EmanGhazy2002/3bsalam-1/blob/output/github-contribution-grid-snake-dark.svg)
