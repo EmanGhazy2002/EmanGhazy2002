@@ -126,4 +126,4 @@ console.log("Skills:", myProfile.getSkills());
 
 ### :writing_hand: Blog  : [EmanGhazy2002](https://EmanGhazy2002.github.io/Blog/)
 
-![snake gif](https://github.com/EmanGhazy2002/3bsalam-1/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/EmanGhazy2002/EmanGhazy2002/blob/output/github-contribution-grid-snake-dark.svg)
