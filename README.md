@@ -37,7 +37,7 @@ class Profile {
     }
 
     getSkills() {
-        let skills = ["Nodejs","PHP","Laravel","Js","C/C++","HTML & CSS"];
+        let skills = ["Nodejs","PHP","Laravel","Js","C/C++", "HTML & CSS"];
         return skills;
     }
 }
