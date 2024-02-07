@@ -1,57 +1,143 @@
-<h1 align="center">Hi , I'm Eman Ghazy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div id="header" align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
+</div>
+<div id="badges"align="center">
 	
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student;Backend+developer+(php+laravel);competitive+programmer" alt="Typing SVG" /></a></p>
+[![Spotify](https://novatorem-self-one.vercel.app/api/spotify)](https://open.spotify.com/user/9m3wv5dp)
 
-- 🔭 I am a Student at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
+![Static Badge](https://img.shields.io/badge/facebook-blue?style=for-the-badge&link=https%3A%2F%2Fwww.facebook.com%2F3BSALAM.Alien)
+![Static Badge](https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2F3bsalam.1%2F)
+![Static Badge](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&color=%230A66C2&link=https%3A%2F%2Fwww.instagram.com%2F3bsalam.1%2F)
+</div>
+<div id="header1" align="center">
+<!--[![committers.top badge](https://user-badge.committers.top/egypt/3bsalam-1.svg)](https://user-badge.committers.top/egypt/3bsalam-1) -->
+  <img src="https://komarev.com/ghpvc/?username=3bsalam-1&style=for-the-badge&color=grey&&label=PROFILE+VIEWS"/>
+</div>
+<div id="view" align="center">
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=435&lines=Data+Scientist)](https://git.io/typing-svg)
+<h1>
+  Hi.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-- 🌱 I’m currently **learning Computer Science, Backend developer (php laravel).**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+```python
+#SPDX-License-Identifier: MIT
+pragma python ^3.10.1
+
+Class Profile :
+    self.name = "Ahmed Mohamed"
+    self.jop_title ="Data Scientist"
+    self.country= "Egypt"
+    self.currently_working = ["Data Science","Machine Learning","Deep Learning"]
+    self.currently_learning = ["Advanced Data Science","Recommendation Systems","Reinforcement Learning"]
+    self.ask=_me_about = ["Technical support", "Operating systems", "Desktop apps", "IT", "Data Science"]
+    self.fun_fact = "I can cook"
+    self.pronouns = "He | Him"
+
+    def getSkills():
+        global skills = [
+            string("Python"),
+            "Java",
+            "C/C++",
+            "Bash",
+            "Tensorflow",
+            "HTML & CSS"]
+
+        return skills
+
+```
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+ 
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+  ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</div>
+
+---
+
+### :fire: My Stats :
+<div align="center">
   
-- 👩‍💻I am Intrested in cyber security.**
-  
-- 👩‍💻I am a competitive programmer at **Codeforces, Leetcode.**
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=3bsalam-1&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/3bsalam-1?tab=repositories)
 
-- 🌟 Main languages: **php, cpp.**
+[![Top Langs](https://github-readme-stats-two-zeta-68.vercel.app/api/top-langs/?username=3bsalam-1&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫 How to reach me **ghazyeman360@gmail.com**
+---
 
-- 🚩 Interested in **Full Stack Application development.**
+<table><tr><td valign="top" width="50%">
 
-<hr>
 <br>
 
-<!-- how to reach me -->
+<img src="./assets/metrics.plugin.overview.svg">
 
-## <p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> How to Reach Me </p>
+</td><td valign="top" width="50%">
 
-<!-- -->
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eman-ghazy-541067208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eman-ghazy-541067208" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/eman.ghazy.7509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eman.ghazy.7509" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/eman_ghazy404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/eman_ghazy404" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/eman_ghazy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/eman_ghazy/" height="30" width="40" /></a>
-</p>
-<hr>
+<img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
 
-## 👉 Programming languages and Tools:
+</td></tr></table>
 
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
+<table><tr><td valign="top" width="50%">
 
+<img src="./assets/metrics.plugin.activity.svg">
 
-## 👉 IDEs
+</td><td valign="top" width="50%">
 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
+<img src="./assets/metrics.plugin.stargazers.svg" >
 
+</td></tr></table>
 
-👉 Streak Stats
-<p align="center"><img alt="GitHub Readme Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=StreakStats&theme=dark" style="display: block;">
+</details>
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EmanGhazy2002&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" alt="EmanGhazy2002" /></p>
-  <br/>
+---
+
+<img src="./assets/metrics.plugin.wakatime.svg">
+
+---
+
+<img src="./assets/metrics.plugin.achievements.svg">
+
+---
+
+ [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=3bsalam-1&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+---
+
+### :writing_hand: Blog  : [3bsalam-1](https://3bsalam-1.github.io/Blog/)
+
+![snake gif](https://github.com/3bsalam-1/3bsalam-1/blob/output/github-contribution-grid-snake-dark.svg)
