@@ -4,7 +4,6 @@
 <div id="badges"align="center">
  
 ![Static Badge](https://img.shields.io/badge/facebook-blue?style=for-the-badge&link=https%3A%2F%2Fwww.facebook.com%2Feman.ghazy.7509)
-
 ![Static Badge](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feman-ghazy-541067208)
 </div>
 <div id="header1" align="center">
@@ -82,7 +81,7 @@ console.log("Skills:", myProfile.getSkills());
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmanGhazy2002&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/EmanGhazy2002?tab=repositories)
 
-[![Top Langs](https://github-readme-stats-two-zeta-68.vercel.app/api/top-langs/?username=EmanGhazy2002&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanGhazy2002&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
